@@ -1,8 +1,8 @@
 {
   "name": "backbone.datastore",
-  "description": "Simple data model store",
+  "description": "Simple data model store currently in Beta / unstable",
   "author": "Simon Harper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "dependencies": {
     "backbone": "*"
