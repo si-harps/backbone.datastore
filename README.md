@@ -1,10 +1,10 @@
 # Backbone DataStore
 
-A simple backbone plugin providing a local datastore for collections and models.
+### Installation
 
 ```npm install backbone.datastore```
 
-## CommonJS
+### CommonJS
 
 ```
 // This is the top of my Backbone application!
@@ -18,7 +18,7 @@ DataStore.extend({
 });
 ```
 
-## Disable data storage
+### Disable data storage
 
 ```
 var realtimeCollection = Backbone.Collection.extend({
@@ -28,6 +28,6 @@ var realtimeCollection = Backbone.Collection.extend({
 })
 ```
 
-## Options
+### Options
 
 ...
