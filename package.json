@@ -2,7 +2,7 @@
   "name": "backbone.datastore",
   "description": "Simple data model store currently in Beta / unstable",
   "author": "Simon Harper",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "dependencies": {
     "backbone": "*"
