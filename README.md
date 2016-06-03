@@ -4,7 +4,7 @@
 
 ### CommonJS
 
-```
+```javascript
 // This is the top of my Backbone application!
 
 var Backbone = require('backbone'); // Must be required prior to data store
@@ -18,7 +18,7 @@ DataStore.extend({
 
 ### Disable data storage
 
-```
+```javascript
 var realtimeCollection = Backbone.Collection.extend({
 	store: false,
 
