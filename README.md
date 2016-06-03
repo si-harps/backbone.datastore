@@ -1,7 +1,5 @@
 # Backbone DataStore
 
-### Installation
-
 ```npm install backbone.datastore```
 
 ### CommonJS
