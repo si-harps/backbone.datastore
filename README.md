@@ -48,6 +48,15 @@ At instance level...
 var realtimeInstance = new realtimeCollection({ store: false })
 ```
 
+At fetch level...
+
+```javascript
+realtimeInstance.fetch({ 
+	invalidate: true,
+	// ... other opts
+})
+```
+
 ### Options
 
 ...
